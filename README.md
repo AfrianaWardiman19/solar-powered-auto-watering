@@ -1,7 +1,10 @@
 # 🌱 Solar-Powered Automatic Plant Watering System
 
 This project is a simple automatic plant watering system powered by a 10W solar panel and an Arduino microcontroller. It uses a soil moisture sensor to detect dryness and activates a 5V DC pump to water the plants.
-If you have any questions, please contact us at afrianawardiman19@gmail.com
+
+## 📜 License
+This project is open-source and free to use, If you have any questions, please contact us at afrianawardiman19@gmail.com
+
 ## 📸 Wiring Diagram
 ![Wiring Diagram](images/wiring.png)
 
