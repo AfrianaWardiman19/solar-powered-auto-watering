@@ -2,9 +2,6 @@
 
 This project is a simple automatic plant watering system powered by a 10W solar panel and an Arduino microcontroller. It uses a soil moisture sensor to detect dryness and activates a 5V DC pump to water the plants.
 
-## 📜 License
-This project is open-source and free to use, If you have any questions, please contact us at afrianawardiman19@gmail.com
-
 ## 📸 Wiring Diagram
 ![Wiring Diagram](images/wiring.png)
 
@@ -54,3 +51,33 @@ This project is open-source and free to use, If you have any questions, please c
 - Use an enclosure for outdoor setup
 
 
+## 🙏 Catatan Penggunaan | Usage Notice
+
+📌 **Note:**  
+Proyek ini dibuat dengan tujuan edukasi dan pengembangan perangkat monitoring kesehatan.  
+**Mohon untuk tidak melakukan plagiarisme atau menyalin tanpa pemahaman.**  
+Jika ingin mengadaptasi, menggunakan, atau mengembangkan proyek ini, **harap mencantumkan nama pembuat: _Afriana Wardiman_**.
+
+Silakan pelajari, modifikasi, dan kembangkan lebih lanjut dengan bijak.
+
+📩 Jika ada pertanyaan terkait alat ini, kamu dapat menghubungi:  
+**afrianawardiman19@gmail.com**
+
+---
+
+📌 **Note:**  
+This project was created for educational and development purposes in the field of health monitoring systems.  
+**Please do not plagiarize or copy without understanding.**  
+If you wish to reuse, adapt, or expand upon this project, **please give proper credit to the creator: _Afriana Wardiman_**.
+
+Feel free to study, modify, and develop it further in a responsible manner.
+
+📩 For any questions regarding this device, you may contact:  
+**afrianawardiman19@gmail.com**
+
+
+---
+
+## 📝 License
+
+This project is open-source and available under the MIT License.
